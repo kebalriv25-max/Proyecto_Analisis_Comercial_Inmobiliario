@@ -1,4 +1,4 @@
-# Proyecto_Analisis_Comercial_Inmobiliario
+# Proyecto Análisis Comercial Inmobiliario
 El objetivo de este proyecto fue evaluar el desempeño comercial en el sector inmobiliario para comprender su crecimiento, rentabilidad y comportamiento de clientes.
 
 ## Se trabajara con el siguiente dataset: 
