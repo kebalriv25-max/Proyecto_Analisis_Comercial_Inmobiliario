@@ -31,3 +31,19 @@ se realizara lo siguiente:
 - 🧪 Aplicar inteligencia de tiempo para analizar tendencias.
 - 📊 Diseñar dashboards claros para análisis ejecutivo.
 - 💰 Analizar la recurrencia de clientes utilizando cohortes.
+
+## 📊 Visualizaciones de Power BI
+
+- **Resumen ejecutivo**
+  
+<img width="1622" height="928" alt="image" src="https://github.com/user-attachments/assets/59e83a36-196b-490d-bace-ff148985052a" />
+
+- **Desempeño comercial y segmentación**
+  
+<img width="1614" height="918" alt="image" src="https://github.com/user-attachments/assets/d3f9a6e1-1b2c-4308-8b4f-f30a00f11f00" />
+
+- **Análisis de retencion de clientes**
+
+<img width="1627" height="932" alt="image" src="https://github.com/user-attachments/assets/f143ad9b-3bf8-42b3-8158-ab8c26451378" />
+
+
